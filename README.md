@@ -47,14 +47,14 @@
 </p>
 
 <a> 
-    <a href="https://github.com/sapperberet"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sapperberet&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/sapperberet"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sapperberet&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/sapperberet"><img alt="" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sapperberet&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/sapperberet"><img alt="" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sapperberet&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <br/>
 <hr/>
 <br/>
-<br><h2 align="left">Connect with me:</h2>
+<br><h2 ign="left">Connect with me:</h2>
 <br>
 <p align="center">
 <a href="https://codepen.io/sapperberet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sapperberet" height="30" width="40" /></a>
